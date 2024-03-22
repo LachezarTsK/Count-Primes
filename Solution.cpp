@@ -5,7 +5,7 @@ using namespace std;
 
 class Solution {
 
-    static const int NO_PRIMES_FOUND = 0;0
+    static const int NO_PRIMES_FOUND = 0;
     static const int FIRST_PRIME_NUMBER = 2;
     static const int REDUCTION_FOR_NON_INCLUSIVE_RANGE = 1;
 
