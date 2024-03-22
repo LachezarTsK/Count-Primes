@@ -1,4 +1,5 @@
 
+/**
  * @param {number} inputValue
  * @return {number}
  */
